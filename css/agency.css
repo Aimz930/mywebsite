@@ -174,7 +174,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/texture.jpg");
+  background-image: url("../img/sunset-mountains.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -443,7 +443,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #EDC7B7;
 }
 
 .timeline > li .timeline-image h4 {
@@ -687,3 +687,9 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   background-repeat: no-repeat;
   background-size: cover;
 } */
+.img-border{
+  padding:1px;
+  border:0.5px solid #e2e7f0a9;
+  background-color:rgb(253, 246, 251);
+
+}
